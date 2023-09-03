@@ -1,0 +1,13 @@
+.web-Name{
+    color: purple;
+    font-weight: 600;
+   
+}
+.search-btn{
+    background-color: purple;
+    color: white;
+}
+.search-btn:hover{
+    background-color: rgb(221, 185, 181);
+    color: black;
+}

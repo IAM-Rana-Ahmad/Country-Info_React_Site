@@ -1,0 +1,29 @@
+body{
+    background-color: lavender;
+}
+.title{
+    color: purple;
+    font-weight: 600;
+    font-family: "Times New Roman", Times, serif;
+}
+.title-heading{
+    word-spacing: 2px;
+}
+
+.form-label{
+    color: maroon;
+    font-weight: 350;
+    font-size: large;
+}
+.next-btn{
+    background-color: purple;
+
+}
+.next-btn:hover{
+    background-color: yellowgreen;
+    color: azure;
+}
+.web-Name{
+    color: rgb(218, 38, 218);
+}
+
